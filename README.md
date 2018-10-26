@@ -14,4 +14,4 @@
 
 ![Mem](http://img.1001mem.ru/posts/3614000/3613064.jpg "домашка")
 
-https://www.youtube.com/edit?o=U&ar=1&video_id=JZfvWpjiQwU (видео с субтитрами)
+https://youtu.be/JZfvWpjiQwU (видео с субтитрами)
