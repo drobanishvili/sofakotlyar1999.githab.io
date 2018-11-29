@@ -27,6 +27,8 @@
 
 ##### Тест 2.1.Разработка требований к информационному обеспечению решения учебных задач. 
 
+>[Task](https://github.com/sofakotlyar1999/sofakotlyar1999.githab.io/blob/master/2.1.md)
+
 ##### Тест 2.2.Решение задач с использованием прикладных программ, в том числе открытого программного обеспечения. 
 
 >[Task](https://github.com/sofakotlyar1999/sofakotlyar1999.githab.io/blob/master/2.2.md)
@@ -82,3 +84,27 @@
 #### Тест 11.2. Обзор возможностей решения образовательных задач с применением технологий виртуальной реальности 
 
 >[Task](https://github.com/sofakotlyar1999/sofakotlyar1999.githab.io/blob/master/11.2.md)
+
+#### В.4.1. Аннотированный обзор и критический анализ открытых коллекций ЭОР для школы
+
+>[Task](https://github.com/sofakotlyar1999/sofakotlyar1999.githab.io/blob/master/B.4.1.md)
+
+#### В.5.2. Составление мини-справочника «ИКТ-инструменты для цифрового Сторителлинга» 
+
+>[Task](https://github.com/sofakotlyar1999/sofakotlyar1999.githab.io/blob/master/B.5.2.md)
+
+#### В.6.1. Создание концептуальной таблицы «Коммуникационные сервисы в образовании»
+
+>[Task](https://github.com/sofakotlyar1999/sofakotlyar1999.githab.io/blob/master/B.6.1.md)
+
+#### В.8.2. Систематизация функциональных возможностей выбранной МООК- платформы 
+
+>[Task](https://github.com/sofakotlyar1999/sofakotlyar1999.githab.io/blob/master/B.8.2.md)
+
+#### В.9.2. Формулирование предложений по совершенствованию информационной среды школы 
+
+>[Task](https://github.com/sofakotlyar1999/sofakotlyar1999.githab.io/blob/master/B.9.2.md)
+
+#### В.10.2. Подбор примеров использования мобильных технологий 
+
+>[Task](https://github.com/sofakotlyar1999/sofakotlyar1999.githab.io/blob/master/B.10.2.md)
