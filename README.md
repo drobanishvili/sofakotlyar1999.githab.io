@@ -36,25 +36,36 @@
 >[Task](https://github.com/sofakotlyar1999/sofakotlyar1999.githab.io/blob/master/3.md)
 
 #####  Тест 4.1. Поиск и систематизация ЭОР в выбранной предметной области
+
+>[Task](https://github.com/sofakotlyar1999/sofakotlyar1999.githab.io/blob/master/4.1.md)
+
 ##### Тест 4.2. Проектирование системы электронных ресурсов электронного учебного курса 
+
+>[Task](https://github.com/sofakotlyar1999/sofakotlyar1999.githab.io/blob/master/4.2.md)
+
 ##### Тест  5.1. Анализ мультимедийного контента для решения образовательных задач
+
+>[Task](https://github.com/sofakotlyar1999/sofakotlyar1999.githab.io/blob/master/5.1.md)
+
 ##### Тест 5.2. Разработка мультимедийного ресурса в выбранной области знаний 
+
+>[Task](https://github.com/sofakotlyar1999/sofakotlyar1999.githab.io/blob/master/5.2new.md)
+
 #### Тест 6. Разработка комплекса коммуникационных средств для решения образовательных задач в рамках электронного учебного курса 
 
-
-
-
+>[Task](https://github.com/sofakotlyar1999/sofakotlyar1999.githab.io/blob/master/6.md)
 
 #### Тест 7. Анализ информационных систем в информационной среды вуза и школы. Составление аннотированного каталога 
 
 >[Task](https://github.com/sofakotlyar1999/sofakotlyar1999.githab.io/blob/master/7.md)
 
 #### Тест 8.1.Участие в открытом онлайн курсе
+
+>[Task](https://github.com/sofakotlyar1999/sofakotlyar1999.githab.io/blob/master/8.1.md)
+
 #### Тест 8.2. Проектирование электронного курса в выбранной области знаний 
 
-
-
-
+>[Task](https://github.com/sofakotlyar1999/sofakotlyar1999.githab.io/blob/master/8.2.md)
 
 #### Тест 9. 1 Критический анализ информационной среды университета 9.2. Критический анализ информационной среды школы 
 
@@ -63,8 +74,6 @@
 #### Тест 9.2. Критический анализ информационной среды школы 
 
 >[Task](https://github.com/sofakotlyar1999/sofakotlyar1999.githab.io/blob/master/9.2.md)
-
-
 
 #### Тест 11.1.Подготовка сообщений о перспективных образовательных трендах
 
