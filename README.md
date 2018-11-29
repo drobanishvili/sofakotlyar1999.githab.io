@@ -11,29 +11,29 @@
 
 #### Задание 3
 
-[Video with subtitle](Video.md)
+>[Video with subtitle](Video.md)
 
 #### Задание 4
 
-[Essay](%D0%AD%D1%81%D1%81%D0%B5.md)
+>[Essay](%D0%AD%D1%81%D1%81%D0%B5.md)
 
 #### Тест 1.1.  Создание опорного конспекта по теме
 
-[Task](https://github.com/sofakotlyar1999/sofakotlyar1999.githab.io/blob/master/1.1.md)
+>[Task](https://github.com/sofakotlyar1999/sofakotlyar1999.githab.io/blob/master/1.1.md)
 
 ##### Тест 1.2.  Коллекция примеров, иллюстрирующих результаты информатизации образования 
 
-[Task](https://github.com/sofakotlyar1999/sofakotlyar1999.githab.io/blob/master/1.2.md)
+>[Task](https://github.com/sofakotlyar1999/sofakotlyar1999.githab.io/blob/master/1.2.md)
 
 ##### Тест 2.1.Разработка требований к информационному обеспечению решения учебных задач. 
 
 ##### Тест 2.2.Решение задач с использованием прикладных программ, в том числе открытого программного обеспечения. 
 
-[Task](https://github.com/sofakotlyar1999/sofakotlyar1999.githab.io/blob/master/2.2.md)
+>[Task](https://github.com/sofakotlyar1999/sofakotlyar1999.githab.io/blob/master/2.2.md)
 
 ##### Тест 3. Составление индивидуального или группового тематического аннотированного каталога нормативных актов в области информатизации образования. 
 
-[Task](https://github.com/sofakotlyar1999/sofakotlyar1999.githab.io/blob/master/3.md)
+>[Task](https://github.com/sofakotlyar1999/sofakotlyar1999.githab.io/blob/master/3.md)
 
 #####  Тест 4.1. Поиск и систематизация ЭОР в выбранной предметной области
 ##### Тест 4.2. Проектирование системы электронных ресурсов электронного учебного курса 
@@ -58,13 +58,18 @@
 
 #### Тест 9. 1 Критический анализ информационной среды университета 9.2. Критический анализ информационной среды школы 
 
+>[Task](https://github.com/sofakotlyar1999/sofakotlyar1999.githab.io/blob/master/9.1.md)
+
 #### Тест 9.2. Критический анализ информационной среды школы 
 
-
+>[Task](https://github.com/sofakotlyar1999/sofakotlyar1999.githab.io/blob/master/9.2.md)
 
 
 
 #### Тест 11.1.Подготовка сообщений о перспективных образовательных трендах
+
+>[Task](https://github.com/sofakotlyar1999/sofakotlyar1999.githab.io/blob/master/11.1.md)
+
 #### Тест 11.2. Обзор возможностей решения образовательных задач с применением технологий виртуальной реальности 
 
-
+>[Task](https://github.com/sofakotlyar1999/sofakotlyar1999.githab.io/blob/master/11.2.md)
